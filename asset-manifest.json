@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Ipod/static/css/main.e6c13ad2.css",
+    "main.js": "/React-Ipod/static/js/main.5e91bd74.js",
+    "static/media/talking_to_the_moon.mp3": "/React-Ipod/static/media/talking_to_the_moon.b4f5f70bdb1ba73ac154.mp3",
+    "static/media/mountain.jpg": "/React-Ipod/static/media/mountain.e4e6781fe23658677169.jpg",
+    "static/media/Shridhar.jpeg": "/React-Ipod/static/media/Shridhar.6c3a8a392d0623ad515d.jpeg",
+    "index.html": "/React-Ipod/index.html",
+    "main.e6c13ad2.css.map": "/React-Ipod/static/css/main.e6c13ad2.css.map",
+    "main.5e91bd74.js.map": "/React-Ipod/static/js/main.5e91bd74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5e91bd74.js"
+  ]
+}
